@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Mobile Designer 2 2.0 -->
+<svg width="128" height="160" viewBox="-64 -80 128 160" stroke-miterlimit="2" zoomAndPan="disable"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve" version="1.1" baseProfile="tiny">
+ 
+<!-- Movie Background -->
+<rect fill="#fff" x="-64" y="-80" width="128" height="160"/>
+ 
+<!-- Scene 1 -->
+<g id="Scene_1">
+ 
+	<!-- Animation -->
+	<g id="Animationd_Dot" transform="translate(19,-183)">
+		<ellipse cx="-115" cy="-93" rx="3" ry="3" fill="#369" stroke="#369" stroke-linejoin="round" stroke-linecap="round"
+			transform="translate(91.5,243.5)">
+			<animateTransform attributeName="transform" type="translate"
+				id="Animationd_Dot_Segment_1" 
+				values="91.5,243.5;91,243;91,243"
+				keyTimes="0;0.75;1"
+				dur="0.6s" fill="freeze"/>
+		</ellipse>
+		<ellipse cx="-23" cy="151" rx="9" ry="9" fill="none" stroke="#369" stroke-linejoin="round" stroke-linecap="round"
+			transform="translate(-12,74.99) scale(0.5)">
+			<animateTransform attributeName="transform" type="translate"
+				begin="Animationd_Dot_Segment_1.begin"
+				values="-12,74.99;-12,74.99;29.51,-200.55;39.88,-269.44"
+				keyTimes="0;0.08;0.58;1"
+				dur="0.6s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="Animationd_Dot_Segment_1.begin" additive="sum"
+				values="0.5,0.5;0.5,0.5;2.32222,2.32222;2.77778,2.77778"
+				keyTimes="0;0.08;0.58;1"
+				dur="0.6s" fill="freeze"/>
+		</ellipse>
+	</g>
+	<text x="-39" y="5" font-size="10" font-family="Arial" font-weight="bold">Please Wait...</text>
+</g>
+ 
+</svg>

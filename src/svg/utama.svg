@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Mobile Designer 2 2.0 -->
+<svg width="128" height="160" viewBox="-64 -80 128 160" stroke-miterlimit="2" zoomAndPan="disable"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve" version="1.1" baseProfile="tiny">
+ 
+<!-- Movie Background -->
+<rect fill="#fff" x="-64" y="-80" width="128" height="160"/>
+ 
+<!-- Scene 1 -->
+<g id="Scene_1">
+ 
+	<!-- Button -->
+	<g id="serverLC2AP" transform="translate(185.54,112) scale(1.1039,1)">
+		<rect x="-216.87" y="-180.87" width="59.37" height="15.87" fill="#f6e0d5" stroke="#000"
+			transform="translate(117.13) scale(1.56936,1)">
+			<set attributeName="fill"
+				begin="0; serverLC2AP.focusout" to="#f6e0d5"/>
+			<animate attributeName="fill"
+				begin="serverLC2AP.focusin"
+				from="#f6e0d5" to="#724129"
+				dur="0.5s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="0; serverLC2AP.focusout"
+				from="117.13,0" to="117.13,0"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="0; serverLC2AP.focusout" additive="sum"
+				from="1.56936,1" to="1.56936,1"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="serverLC2AP.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="-206.62" y="-169.53" font-size="9.81" font-family="Arial" font-weight="bold"
+			transform="translate(-12.05)">Server LC2AP<set attributeName="fill"
+				begin="0; serverLC2AP.focusout" to="#000"/><animate attributeName="fill"
+				begin="serverLC2AP.focusin"
+				from="#000" to="#fff"
+				dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="0; serverLC2AP.focusout"
+				from="-12.05,0" to="-12.05,0"
+				dur="0.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="serverLC2AP.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/></text>
+	</g>
+ 
+	<!-- Button -->
+	<g id="serverRFCOMM" transform="translate(155.27,134)">
+		<rect x="-216.87" y="-180.87" width="59.37" height="15.87" fill="#f6e0d5" stroke="#000"
+			transform="translate(165.19) scale(1.76172,1)">
+			<set attributeName="fill"
+				begin="0; serverRFCOMM.focusout" to="#f6e0d5"/>
+			<animate attributeName="fill"
+				begin="serverRFCOMM.focusin"
+				from="#f6e0d5" to="#724129"
+				dur="0.5s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="0; serverRFCOMM.focusout"
+				from="165.19,0" to="165.19,0"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="0; serverRFCOMM.focusout" additive="sum"
+				from="1.76172,1" to="1.76172,1"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="serverRFCOMM.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="-206.62" y="-169.53" font-size="9.81" font-family="Arial" font-weight="bold"
+			transform="translate(-3)">Server RFCOMM<set attributeName="fill"
+				begin="0; serverRFCOMM.focusout" to="#000"/><animate attributeName="fill"
+				begin="serverRFCOMM.focusin"
+				from="#000" to="#fff"
+				dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="0; serverRFCOMM.focusout"
+				from="-3,0" to="-3,0"
+				dur="0.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="serverRFCOMM.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/></text>
+	</g>
+ 
+	<!-- Button -->
+	<g id="clientLC2AP" transform="translate(155.27,155)">
+		<rect x="-216.87" y="-180.87" width="59.37" height="15.87" fill="#f6e0d5" stroke="#000"
+			transform="translate(168.85) scale(1.77856,1)">
+			<set attributeName="fill"
+				begin="0; clientLC2AP.focusout" to="#f6e0d5"/>
+			<animate attributeName="fill"
+				begin="clientLC2AP.focusin"
+				from="#f6e0d5" to="#724129"
+				dur="0.5s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="0; clientLC2AP.focusout"
+				from="168.85,0" to="168.85,0"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="0; clientLC2AP.focusout" additive="sum"
+				from="1.77856,1" to="1.77856,1"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="clientLC2AP.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="-206.62" y="-169.53" font-size="9.81" font-family="Arial" font-weight="bold"
+			transform="translate(-3)">Client LC2AP<set attributeName="fill"
+				begin="0; clientLC2AP.focusout" to="#000"/><animate attributeName="fill"
+				begin="clientLC2AP.focusin"
+				from="#000" to="#fff"
+				dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="0; clientLC2AP.focusout"
+				from="-3,0" to="-3,0"
+				dur="0.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="clientLC2AP.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/></text>
+	</g>
+ 
+	<!-- Button -->
+	<g id="clientRFCOMM" transform="translate(155.27,176)">
+		<rect x="-216.87" y="-180.87" width="59.37" height="15.87" fill="#f6e0d5" stroke="#000"
+			transform="translate(172.5) scale(1.79541,1)">
+			<set attributeName="fill"
+				begin="0; clientRFCOMM.focusout" to="#f6e0d5"/>
+			<animate attributeName="fill"
+				begin="clientRFCOMM.focusin"
+				from="#f6e0d5" to="#724129"
+				dur="0.5s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="0; clientRFCOMM.focusout"
+				from="172.5,0" to="172.5,0"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="0; clientRFCOMM.focusout" additive="sum"
+				from="1.79541,1" to="1.79541,1"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="clientRFCOMM.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="-206.62" y="-169.53" font-size="9.81" font-family="Arial" font-weight="bold"
+			transform="translate(-3)">Client RFCOMM<set attributeName="fill"
+				begin="0; clientRFCOMM.focusout" to="#000"/><animate attributeName="fill"
+				begin="clientRFCOMM.focusin"
+				from="#000" to="#fff"
+				dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="0; clientRFCOMM.focusout"
+				from="-3,0" to="-3,0"
+				dur="0.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="clientRFCOMM.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/></text>
+	</g>
+ 
+	<!-- Button -->
+	<g id="keluar" transform="translate(155.27,214)">
+		<rect x="-216.87" y="-180.87" width="59.37" height="15.87" fill="#f6e0d5" stroke="#000"
+			transform="translate(-9.13) scale(0.957895,1)">
+			<set attributeName="fill"
+				begin="0; keluar.focusout" to="#f6e0d5"/>
+			<animate attributeName="fill"
+				begin="keluar.focusin"
+				from="#f6e0d5" to="#724129"
+				dur="0.5s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="0; keluar.focusout"
+				from="-9.13,0" to="-9.13,0"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="scale"
+				begin="0; keluar.focusout" additive="sum"
+				from="0.957895,1" to="0.957895,1"
+				dur="0.05s" fill="freeze"/>
+			<animateTransform attributeName="transform" type="translate"
+				begin="keluar.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="-206.62" y="-169.53" font-size="9.81" font-family="Arial" font-weight="bold"
+			transform="translate(-3)">KELUAR<set attributeName="fill"
+				begin="0; keluar.focusout" to="#000"/><animate attributeName="fill"
+				begin="keluar.focusin"
+				from="#000" to="#fff"
+				dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="0; keluar.focusout"
+				from="-3,0" to="-3,0"
+				dur="0.05s" fill="freeze"/><animateTransform attributeName="transform" type="translate"
+				begin="keluar.focusin"
+				from="0,0" to="0,0"
+				dur="0.5s" fill="freeze"/></text>
+	</g>
+</g>
+ 
+</svg>
